@@ -1,0 +1,10 @@
+/* Cambia el color de fondo de los botones al pulsarlos */
+.button.pressed {
+    background-color: #FF0000 !important; 
+    box-shadow: 0 0 10px #FF0000 !important; /* Opcional: brillo */
+}
+
+/* Si quieres cambiar también el color de los gatillos al pulsarlos */
+.trigger.pressed {
+    background-color: #FF0000 !important;
+}
